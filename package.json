@@ -1,0 +1,15 @@
+{
+  "name": "thor_away",
+  "version": "1.0.0",
+  "description": "thor is not home ho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ther",
+    "not"
+  ],
+  "author": "kyrg",
+  "license": "ISC"
+}
