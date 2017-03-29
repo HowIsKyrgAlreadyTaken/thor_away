@@ -1,2 +1,2 @@
 # thor_away
-true test
+Okay, everything set up
